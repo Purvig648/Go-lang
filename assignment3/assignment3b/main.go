@@ -1,7 +1,7 @@
 package main
 
 import (
-	"assignments/assignment3b/temperaturee"
+	"assignments/assignment3/assignment3b/temperaturee"
 	"fmt"
 )
 

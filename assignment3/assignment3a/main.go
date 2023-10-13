@@ -1,7 +1,7 @@
 package main
 
 import (
-	"assignments/assignment3a/calculattor"
+	"assignments/assignment3/assignment3a/calculattor"
 	"fmt"
 )
 
