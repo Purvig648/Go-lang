@@ -1,7 +1,7 @@
 package shape
 
 import (
-	"assignments/assignment8d/models"
+	"assignments/models"
 	"math"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"assignments/assignment8d/models"
-	"assignments/assignment8d/shape"
+	"assignments/models"
+	"assignments/shape"
 	"fmt"
 )
 
